@@ -28,7 +28,7 @@ The interactive notebooks leverages the 2i2c Openscapes Jupyter Hub deploy on AW
 
 1. [Sign up](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiv9a-GmdnzAhW4l3IEHRAGAJkQFnoECAcQAQ&url=https%3A%2F%2Fgithub.com%2Fjoin&usg=AOvVaw0H9TK-nu7JfXaoNeNMgJEk) for a Github account.
 2. Add your Github username to the [2i2c Openscapes Jupyter Hub administrator document](https://docs.google.com/document/d/1dazKaqjFmGahsr-jVTDs4fBZJM1nd8UFG7fMGF5Gc7I/edit?usp=sharing). The administrator will need to add you to the access list before moving on to the next step.
-3. Click the [Launch Interactive Notebooks](https://openscapes.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famfriesz%2Flpdaac_cloud_data_access&urlpath=lab%2Ftree%2Flpdaac_cloud_data_access%2F&branch=main) link here, or above.
+3. Click the link for the Interactive Notebooks <!-- ](https://openscapes.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famfriesz%2Flpdaac_cloud_data_access&urlpath=lab%2Ftree%2Flpdaac_cloud_data_access%2F&branch=main) link here, or above.--> 
 4. Sign in using your Github username when prompted.
 
 ### User is running notebook from within the AWS cloud region `us-west-2`
